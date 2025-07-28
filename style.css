@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+}
+
+h1{
+    background-color: black;
+    color: white;
+    padding: 36px;
+}
+
+p{
+    margin: 40px 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+li{
+    background-color: lightblue;
+    padding: 10px;
+    margin: 10px 8px;
+    margin-right: 550px;
+    border: 50px;
+}
+
+.page-one{
+    background-color: yellow;
+}
+
