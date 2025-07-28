@@ -1,0 +1,53 @@
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border: red solid 5px;
+    margin: auto;
+}
+
+h3{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+ul{
+    border: 2px solid gray;
+    background-color: yellow;
+}
+
+li{
+    padding: 10px;
+}
+
+p{
+    border: 2px solid gray;
+    background-color: aliceblue;
+    padding: 5px;
+    margin-right: 50px;
+}
+
+.stats{
+    text-align: center;
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#intro{
+    text-align: center;
+    margin: 50px;
+}
+
+
+
+#image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 50px;
+}
